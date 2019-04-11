@@ -2,8 +2,8 @@
 
 namespace Musonza\Chat\Commanding;
 
-use Illuminate\Foundation\Application;
-
+use Laravel\Lumen\Application;
+		
 class CommandBus
 {
     private $app;
